@@ -50,7 +50,7 @@ python Meng3Dltech.py --shell_number 20 --major_axis 6 --minor_axis 5 --wave_len
 
 ### Analyze the source of  $\text V_{\text S\text i}$​
 
-②、Run [ Mengcentech.py](3D-MD_simulation/Energy_distribution/Meng3Dltech.py) directly. Write something like:
+②、Run [ Mengcentech.py](3D-MD_simulation/Mengcentech.py) directly. Write something like:
 
 ```python
 python Mengcentech.py --matforW 20 --xyzforW 6 --matforW3_Coordination 5 --matforW4_Coordination 1030e-9 --_3_Coor_xyz_file_path 0.4 --_4_Coor_xyz_file_path 285e-15 --_3_Coor_xyz_ori_output_file_path 1e5 --_4_Coor_xyz_ori_output_file_path ./outputfile --_3_Coor_xyz_output_file_path 250e-6 --_3_Coor_xyz_output_file_path 2.5839 
